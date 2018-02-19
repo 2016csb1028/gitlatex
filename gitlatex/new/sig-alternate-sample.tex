@@ -209,7 +209,7 @@ over 2,500 respondents by Photobucket reveals that 45\% of the respondents use m
 
 Proliferation of such mobile devices with video capture capability has enabled users to capture video of their life events such as concerts, parades, outdoor performances, etc, and socially share them with friends and public as it happens. Videos recorded by a single user at such events are shot from a limited range of angles and distances from the performance stage, as an attendee typically has limited mobility (e.g., constraint by seating arrangement). The recorded video can be monotonous and uninteresting. Furthermore, videos recorded are typically short (in the order of minutes or tens of minutes), due to tired arms or power constraint of mobile devices. There are, however, likely to have more than one users recording the same performance from different angles at the same time, especially at a well-attended performance.
 
-These recorded and shared video clips of the same performance can be cut and joined together to produce a new mashup video, similar to how a TV director of a live TV show would switch between different cameras to produce the show. Generation of a videsmdfdsfo mashup can be cast as a video selection problem: given a set of video clips capturing the same performance event, automatically select one of the video clips at any one time instance to be included in the output mashup video.
+These recorded and shared video clips of the same performance can be cut and joined together to produce a new mashup video, similar to how a TV director of a live TV show would switch between different cameras to produce the show. Generation of a video mashup can be cast as a video selection problem: given a set of video clips capturing the same performance event, automatically select one of the video clips at any one time instance to be included in the output mashup video.
 
 In this paper, we introduce MoViMash, our approach to solve the above video selection problem. MoViMash aims to produce mashup video from a set of mobile devices that is interesting and pleasing to watch, and uses a combinations of content-analysis, state-based transitions, history-based diversity, and learning from human editors to achieve this goal.
 
@@ -247,7 +247,7 @@ webcast system is presented in which the cameras that are focusing
 on speaker and the presentation (the screen) are selected iteratively
 until anybody from audience asks question. When audience ask
 question, the camera that is focusing the person asking question is
-selected. The automatic selection of  lecture webcast
+selected. The automatic selection of cameras in a lecture webcast
 is extended by Zhang et al. [21] to include audio based localization
 and speaker tracking. Similar approach is taken by Cutler et al. [6]
 in a meeting scenario where camera that shows the current speaker
@@ -319,7 +319,7 @@ through learning for online video selection for live performances.
 
 \section{MOVIMASH FRAMEWORK}
 In this section, we first enumerate the design principles that we
-have followed in the development of MoViMash31241 and then describe
+have followed in the development of MoViMash and then describe
 the framework. After an overview of MoViMash, we focus on individual
 components.
 
@@ -374,7 +374,7 @@ use a three-phase method to select the video while the length is
 determined based on learned editing rules and overall quality score
 of the selected video.
 
-Figure 2 shows the block diagram of overallllll framework. The
+Figure 2 shows the block diagram of overall framework. The
 proposed framework consists of one offline learning phase and three online selection phases namely filtering, classification, and selection.
 At any given time, the following steps are taken to select the
 most suitable video at current instant:
@@ -483,7 +483,7 @@ The 1's in the patch image shows potentially occluded regions.
 in the non-occluded area as well. These regions, however, are
 generally small. Therefore, connected components operation
 is performed to find the size of largest group of connected
-patches with label 1, which corresponds to enmdmq fqoccluded region.
+patches with label 1, which corresponds to occluded region.
 \item Occlusion Score: To calculate the final occlusion score $S^o$,
 we first calculate the fractional occluded region f in the connected
 components output image, i.e.,
@@ -573,7 +573,7 @@ record shot length.
 \item Depending on the distance of the recording device from the
 stage, the videos are further classified as near $\mathcal{(N)}$ or far $\mathcal{(F)}$ (Figure 1).
 \item Based on both classifications, we define six states (also referred
-as classes in the paper) in whicmwejfbkqwenh a video can be at any
+as classes in the paper) in which a video can be at any
 time instant, i.e., $\mathcal{CN, CF, RN, RF, LN,}$ and $\mathcal{LF}$.
 \item From the sequence of the shots, we calculate the state transition
 probabilities for the above described six states.
