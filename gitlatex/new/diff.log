@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.10)  19 FEB 2018 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.10)  19 FEB 2018 16:03
 entering extended mode
 **./diff.tex
 (diff.tex
@@ -259,8 +259,7 @@ cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-)
-No file diff.aux.
+) (diff.aux)
 \openout1 = `diff.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -397,65 +396,80 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{C:/Users/Abhishek Singh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] [2]
-Overfull \hbox (6.72833pt too wide) in paragraph at lines 377--385
+]
+<block-diagram.pdf, id=15, pagebox=cropbox, 699.61375pt x 289.08pt>
+File: block-diagram.pdf Graphic file (type pdf)
+<use block-diagram.pdf>
+Package pdftex.def Info: block-diagram.pdf  used on input line 263. on input li
+ne 263.
+Package pdftex.def Info: Requested size: 216.81pt x 89.583pt on input line 263.
+
+ [2 <./block-diagram.pdf>]
+File: block-diagram.pdf Graphic file (type pdf)
+<use block-diagram.pdf>
+Package pdftex.def Info: block-diagram.pdf  used on input line 354. on input li
+ne 354.
+Package pdftex.def Info: Requested size: 216.81pt x 89.583pt on input line 354.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (6.72833pt too wide) in paragraph at lines 383--391
 \T1/aer/m/n/9 de-ci-sions in-clude shoot-ing an-gle, dis-tance from the stage,
  []
 
 
-Overfull \hbox (8.33188pt too wide) in paragraph at lines 377--385
+Overfull \hbox (8.33188pt too wide) in paragraph at lines 383--391
 \T1/aer/m/n/9 state this ex-pe-ri-ence in terms of hard-coded rules. There-
  []
 
 
-Overfull \hbox (2.36536pt too wide) in paragraph at lines 402--406
+Overfull \hbox (2.36536pt too wide) in paragraph at lines 408--412
 \T1/aer/m/n/9 The pro-posed frame-work con-sists of one of-fline learn-ing phas
 e
  []
 
 [3]
-Overfull \hbox (10.09782pt too wide) in alignment at lines 480--486
+Overfull \hbox (10.09782pt too wide) in alignment at lines 486--492
  [][][] []
  []
 
 
-Overfull \hbox (175.3069pt too wide) in alignment at lines 498--505
+Overfull \hbox (175.3069pt too wide) in alignment at lines 504--511
  [][][] []
  []
 
 [4]
-Overfull \hbox (7.43204pt too wide) in paragraph at lines 603--605
+Overfull \hbox (7.43204pt too wide) in paragraph at lines 609--611
 \T1/aer/m/n/9 tran-si-tion prob-a-bil-i-ties for the above de-scribed six state
 s. 
  []
 
 
-Overfull \hbox (7.91806pt too wide) in paragraph at lines 605--609
+Overfull \hbox (7.91806pt too wide) in paragraph at lines 611--615
 \T1/aer/m/n/9 a se-quence of shot states and their cor-re-spond-ing lengths. 
  []
 
 
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
-
-Overfull \hbox (10.45076pt too wide) in alignment at lines 623--633
+Overfull \hbox (10.45076pt too wide) in alignment at lines 629--639
  [][][] []
  []
 
 
-Overfull \hbox (5.9203pt too wide) in paragraph at lines 645--656
+Overfull \hbox (5.9203pt too wide) in paragraph at lines 651--662
 \T1/aer/m/n/9 smaller ( av-er-age around 2.3 sec-onds) com-pared to solo singin
 g
  []
 
 [5]
-Overfull \hbox (16.51666pt too wide) in alignment at lines 707--713
+Overfull \hbox (16.51666pt too wide) in alignment at lines 713--719
  [][][] []
  []
 
 [6]
 No file diff.bbl.
-LaTeX Font Info:    Try loading font information for T1+aett on input line 872.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 878.
 
 
 ("C:\Users\Abhishek Singh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\t1aett
@@ -463,10 +477,10 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 872.
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 ) [7] (diff.aux) ) 
 Here is how much of TeX's memory you used:
- 3308 strings out of 493312
- 45113 string characters out of 3125910
- 119646 words of memory out of 3000000
- 6740 multiletter control sequences out of 15000+200000
+ 3315 strings out of 493312
+ 45311 string characters out of 3125910
+ 121646 words of memory out of 3000000
+ 6744 multiletter control sequences out of 15000+200000
  60240 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,17n,37p,982b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -497,9 +511,9 @@ shek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
 C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
 /utmr8a.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on diff.pdf (7 pages, 268049 bytes).
+Output written on diff.pdf (7 pages, 305564 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
+ 185 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

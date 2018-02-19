@@ -1,7 +1,7 @@
 % This is "sig-alternate.tex" V2.1 April 2013
 %DIF LATEXDIFF DIFFERENCE FILE
 %DIF DEL sig-alternate-sample.tex       Mon Feb 19 15:05:51 2018
-%DIF ADD sig-alternate-sample-new.tex   Mon Feb 19 15:30:19 2018
+%DIF ADD sig-alternate-sample-new.tex   Mon Feb 19 16:01:44 2018
 % This file should be compiled with V2.5 of "sig-alternate.cls" May 2012
 %
 % This example file demonstrates the use of the 'sig-alternate.cls'
@@ -228,7 +228,7 @@ Worldwide shipment of camera phones were estimated to reach
 1.14 billion in the year 2011 alone [1]. Furthermore, a survey of
 over 2,500 respondents by Photobucket reveals that 45\% of the respondents use mobile devices to shoot video at least once weekly during the summer of 2011, validating the significant increase in the amount of mobile video uploaded to PhotobucketΓÇÖs video sharing website (14├ùin Summer 2011 compared to December 2010) [2].
 
-Proliferation of such mobile devices with video capture capability has enabled users to capture video of their life events such as concerts, parades, outdoor performances, etc, and socially share them with friends and public as it happens. Videos recorded by a single user at such events are shot from a limited range of angles and distances from the performance stage, as an attendee typically has limited mobility (e.g., constraint by seating arrangement). The recorded video can be monotonous and uninteresting. Furthermore, videos recorded are typically short (in the order of minutes or tens of minutes), due to tired arms or power constraint of mobile devices. There are, however, likely to have more than one users recording the same performance from different angles at the same time, especially at a well-attended performance.
+Proliferation of such mobile devices with video capture capability has enabled users to capture video of their life events such as concerts, parades, outdoor performances, etc, and socially share them with friends and public as it happens. \DIFdelbegin \DIFdel{Videos recorded by a single user at such events are shot from a limited range of angles and distances from the performance stage, as an attendee typically has limited mobility (e.g., constraint by seating arrangement). The recorded video can be monotonous and uninteresting. Furthermore, videos recorded are typically short (in the order of minutes or tens of minutes), due to tired arms or power constraint of mobile devices. There are, however, likely to have more than one users recording the same performance from different angles }\DIFdelend \DIFaddbegin \DIFadd{Vidifferent angles }\DIFaddend at the same time, especially at a well-attended performance.
 
 These recorded and shared video clips of the same performance can be cut and joined together to produce a new mashup video, similar to how a TV director of a live TV show would switch between different cameras to produce the show. Generation of a \DIFdelbegin \DIFdel{video }\DIFdelend \DIFaddbegin \DIFadd{videedhwjhbwjehfbjeo }\DIFaddend mashup can be cast as a video selection problem: given a set of video clips capturing the same performance event, automatically select one of the video clips at any one time instance to be included in the output mashup video.
 
@@ -260,7 +260,9 @@ as follows:
 The rest of the paper is organized as follows.\\
 We provide a review of earlier work in Section 2. In Section 3 we describe proposed mashup framework. We evaluate our system in Section 4. The conclusions are provided in Section 5.
 
-\section{PREVIOUS WORK}
+\DIFaddbegin \includegraphics[width=3in]{block-diagram.pdf}
+
+\DIFaddend \section{PREVIOUS WORK}
 There has been only few works on online camera selection. In
 most of these works, videos are mainly selected to show the speakers.
 In the work by Machnicki and Rowe [9], an online lecture
@@ -347,6 +349,10 @@ In this section, we first enumerate the design principles that we
 have followed in the development of \DIFdelbegin \DIFdel{MoViMash }\DIFdelend \DIFaddbegin \DIFadd{MoViMashe3112 }\DIFaddend and then describe
 the framework. After an overview of MoViMash, we focus on individual
 components.
+\DIFaddbegin 
+
+\includegraphics[width=3in]{block-diagram.pdf}
+\DIFaddend 
 
 \subsection{Design Principles}
 The end goal of the MoViMash is to produce a mashup that users

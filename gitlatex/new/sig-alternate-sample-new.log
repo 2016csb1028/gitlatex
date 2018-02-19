@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.10)  19 FEB 2018 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.10)  19 FEB 2018 16:01
 entering extended mode
 **./sig-alternate-sample-new.tex
 (sig-alternate-sample-new.tex
@@ -236,8 +236,7 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
 ("C:\Users\Abhishek Singh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\t1aer.
 fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
-)))
-No file sig-alternate-sample-new.aux.
+))) (sig-alternate-sample-new.aux)
 \openout1 = `sig-alternate-sample-new.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -374,105 +373,121 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{C:/Users/Abhishek Singh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] [2]
-Overfull \hbox (6.72833pt too wide) in paragraph at lines 347--355
+]
+<block-diagram.pdf, id=14, pagebox=cropbox, 699.61375pt x 289.08pt>
+File: block-diagram.pdf Graphic file (type pdf)
+<use block-diagram.pdf>
+Package pdftex.def Info: block-diagram.pdf  used on input line 242. on input li
+ne 242.
+Package pdftex.def Info: Requested size: 216.81pt x 89.583pt on input line 242.
+
+ [2 <./block-diagram.pdf>]
+File: block-diagram.pdf Graphic file (type pdf)
+<use block-diagram.pdf>
+Package pdftex.def Info: block-diagram.pdf  used on input line 323. on input li
+ne 323.
+Package pdftex.def Info: Requested size: 216.81pt x 89.583pt on input line 323.
+
+
+Overfull \hbox (6.72833pt too wide) in paragraph at lines 351--359
 \T1/aer/m/n/9 de-ci-sions in-clude shoot-ing an-gle, dis-tance from the stage,
  []
 
 
-Overfull \hbox (8.33188pt too wide) in paragraph at lines 347--355
+Overfull \hbox (8.33188pt too wide) in paragraph at lines 351--359
 \T1/aer/m/n/9 state this ex-pe-ri-ence in terms of hard-coded rules. There-
  []
 
 
-Overfull \hbox (2.36536pt too wide) in paragraph at lines 372--376
+Overfull \hbox (2.36536pt too wide) in paragraph at lines 376--380
 \T1/aer/m/n/9 The pro-posed frame-work con-sists of one of-fline learn-ing phas
 e
  []
 
 [3]
-Overfull \hbox (10.09782pt too wide) in alignment at lines 450--456
+Overfull \hbox (10.09782pt too wide) in alignment at lines 454--460
  [][][] []
  []
 
 
-Overfull \hbox (175.3069pt too wide) in alignment at lines 468--475
+Overfull \hbox (175.3069pt too wide) in alignment at lines 472--479
  [][][] []
  []
 
 [4]
-Overfull \hbox (7.43204pt too wide) in paragraph at lines 573--575
+Overfull \hbox (7.43204pt too wide) in paragraph at lines 577--579
 \T1/aer/m/n/9 tran-si-tion prob-a-bil-i-ties for the above de-scribed six state
 s. 
  []
 
 
-Overfull \hbox (7.91806pt too wide) in paragraph at lines 575--579
+Overfull \hbox (7.91806pt too wide) in paragraph at lines 579--583
 \T1/aer/m/n/9 a se-quence of shot states and their cor-re-spond-ing lengths. 
  []
 
 
-Overfull \hbox (10.45076pt too wide) in alignment at lines 593--603
+Underfull \vbox (badness 1067) has occurred while \output is active []
+
+
+Overfull \hbox (10.45076pt too wide) in alignment at lines 597--607
  [][][] []
  []
 
 
-Overfull \hbox (5.9203pt too wide) in paragraph at lines 615--626
+Overfull \hbox (5.9203pt too wide) in paragraph at lines 619--630
 \T1/aer/m/n/9 smaller ( av-er-age around 2.3 sec-onds) com-pared to solo singin
 g
  []
 
 [5]
-Overfull \hbox (16.51666pt too wide) in alignment at lines 677--683
+Overfull \hbox (16.51666pt too wide) in alignment at lines 681--687
  [][][] []
  []
 
-No file sig-alternate-sample-new.bbl.
 [6]
-LaTeX Font Info:    Try loading font information for T1+aett on input line 842.
+No file sig-alternate-sample-new.bbl.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 846.
 
 
 ("C:\Users\Abhishek Singh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ae\t1aett
 .fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-) [7
-
-] (sig-alternate-sample-new.aux) ) 
+) [7] (sig-alternate-sample-new.aux) ) 
 Here is how much of TeX's memory you used:
- 3169 strings out of 493312
- 43458 string characters out of 3125910
- 118804 words of memory out of 3000000
- 6610 multiletter control sequences out of 15000+200000
+ 3176 strings out of 493312
+ 43696 string characters out of 3125910
+ 115804 words of memory out of 3000000
+ 6614 multiletter control sequences out of 15000+200000
  60240 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,17n,37p,1002b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Abhishek Singh/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Abhishek Singh/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Abhish
-ek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/
-cmex9.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Abhishek Singh/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Us
-ers/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr6.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Abhishek Singh/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Abhishek Singh/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/
-Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy7.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Abhishek Singh/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Abhishek S
-ingh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb
-><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvb8a.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Abhishek Singh/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Abhishek Singh/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Abhishek S
-ingh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on sig-alternate-sample-new.pdf (7 pages, 254827 bytes).
+{C:/Users/Abhishek Singh/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Abhishek Singh/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Ab
+hishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmex
+tra/cmex9.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Abhishek Singh/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Abhishek Sing
+h/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C
+:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr6.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Abhishek Singh/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Abhishek Si
+ngh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+<C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Abhishek Singh/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Abhish
+ek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9
+.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvb8a.pfb><C:/Users/Abhishek Singh/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Abhishek Singh/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Abhishek Singh/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Abhish
+ek Singh/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on sig-alternate-sample-new.pdf (7 pages, 289704 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
